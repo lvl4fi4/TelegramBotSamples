@@ -1,7 +1,7 @@
 # TelegramBotSamples
 Creating Telegram Bot via .net Library using setWebhook and getUpdates Methods
 
-آموزش یاخت بوت تلگرام بطور کامل و حرفه ای 
+آموزش ساخت بوت تلگرام بطور کامل و حرفه ای 
 
 مربوط به آموزش زیر:
 
