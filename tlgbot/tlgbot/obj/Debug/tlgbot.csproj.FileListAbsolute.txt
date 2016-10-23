@@ -1,0 +1,15 @@
+C:\Users\HM\Documents\Visual Studio 2015\Projects\tlgbot\tlgbot\bin\Debug\tlgbot.exe.config
+C:\Users\HM\Documents\Visual Studio 2015\Projects\tlgbot\tlgbot\bin\Debug\tlgbot.exe
+C:\Users\HM\Documents\Visual Studio 2015\Projects\tlgbot\tlgbot\bin\Debug\tlgbot.pdb
+C:\Users\HM\Documents\Visual Studio 2015\Projects\tlgbot\tlgbot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HM\Documents\Visual Studio 2015\Projects\tlgbot\tlgbot\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\HM\Documents\Visual Studio 2015\Projects\tlgbot\tlgbot\bin\Debug\Telegram.Bot.dll
+C:\Users\HM\Documents\Visual Studio 2015\Projects\tlgbot\tlgbot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HM\Documents\Visual Studio 2015\Projects\tlgbot\tlgbot\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\HM\Documents\Visual Studio 2015\Projects\tlgbot\tlgbot\bin\Debug\Telegram.Bot.xml
+C:\Users\HM\Documents\Visual Studio 2015\Projects\tlgbot\tlgbot\obj\Debug\tlgbot.csprojResolveAssemblyReference.cache
+C:\Users\HM\Documents\Visual Studio 2015\Projects\tlgbot\tlgbot\obj\Debug\tlgbot.Form1.resources
+C:\Users\HM\Documents\Visual Studio 2015\Projects\tlgbot\tlgbot\obj\Debug\tlgbot.Properties.Resources.resources
+C:\Users\HM\Documents\Visual Studio 2015\Projects\tlgbot\tlgbot\obj\Debug\tlgbot.csproj.GenerateResource.Cache
+C:\Users\HM\Documents\Visual Studio 2015\Projects\tlgbot\tlgbot\obj\Debug\tlgbot.exe
+C:\Users\HM\Documents\Visual Studio 2015\Projects\tlgbot\tlgbot\obj\Debug\tlgbot.pdb
